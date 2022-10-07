@@ -1,5 +1,3 @@
-using System;
-
 namespace Inventory.Models
 {
     public class ErrorViewModel
